@@ -6,7 +6,15 @@
     "overrides":[
       {
         "predicate": { "custom_model_data": 1 },
-        "model":"minecraft:item/blaze_powder"
+        "model":"oppp:flamethrower_ammo"
+      },
+      {
+        "predicate": { "custom_model_data": 2 },
+        "model":"oppp:flamethrower_ammo_pouch_empty"
+      },
+      {
+        "predicate": { "custom_model_data": 3 },
+        "model":"oppp:flamethrower_ammo_pouch_full"
       }
     ]
   }
